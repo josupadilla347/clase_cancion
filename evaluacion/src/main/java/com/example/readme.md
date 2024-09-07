@@ -1,0 +1,1 @@
+Este ejercicio nos servira para crear una clase "Cancion" en Java que represente una canción, utilizando los conceptos de POO. La clase va a incluir atributos privados, constructores sobrecargados, métodos setter y getter, métodos privados, una constante estática, y sobrecarga de métodos. La clase debe va a ser almacenada en un repositorio de GitHub.
